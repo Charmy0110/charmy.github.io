@@ -1,0 +1,48 @@
+body * {
+    margin: auto;
+}
+.message-box {
+    text-align: center;
+    border-width: 1px;
+    border-radius: 13px;
+    border-color: #ec711e;
+    color: #ec711e;
+    margin-bottom: 15px;
+    padding: 0px, 10px;
+}
+.detail-button {
+    color: #ec711e;
+    border: 1px solid #ec711e;
+    border-radius: 15px;
+    padding: 1px 10px 1px 10px;
+    background: none;
+}
+.detail-button:hover {
+    background-color: #ec711e;
+    color: black;
+}
+.detail-button:active {
+    background-color: #C65A11;
+}
+.card-container {
+    column-gap: 5px;
+}
+.container3 {
+    padding-top: 15rem;
+    align-items: center;
+    background-image: url("assets/image/bg-image1.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100%;
+    height: 600px;
+}
+.join-button {
+    background-color: #ec711e;
+    border-radius: 15px;
+    text-transform: uppercase;
+    border: none;
+    padding: 1px 10px 1px 10px;
+}
+.card {
+    border: none;
+}
